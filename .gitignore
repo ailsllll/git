@@ -1,0 +1,31 @@
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+
+# 依赖 / 构建产物
+node_modules/
+dist/
+build/
+out/
+target/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+
+# 日志 / 临时
+*.log
+.tmp/
+.cache/
